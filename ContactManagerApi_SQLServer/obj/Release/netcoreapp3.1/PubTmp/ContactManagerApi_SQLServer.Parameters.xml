@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ContactManagerApiSQLServer" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^H:\\git\\interview-questions\\Azure\ Cloud\\CompletePrac\\ContactManagerApi_SQLServer\\ContactManagerApi_SQLServer\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
